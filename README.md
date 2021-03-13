@@ -1,4 +1,6 @@
-# Get app running
+# Get The App Started
+
+In the project directory, you can run:
 
 ### `npm start`
 
