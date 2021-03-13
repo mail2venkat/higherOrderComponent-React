@@ -1,4 +1,4 @@
-# Get app running
+# Get the app running
 
 ### `npm start`
 
